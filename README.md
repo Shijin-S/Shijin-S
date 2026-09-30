@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shijin 👋
 
-<!--
-**Shijin-S/Shijin-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML enthusiast and full-stack developer, open to freelance work and open-source collaboration.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, C++, Python, Java, JavaScript
+- **Backend:** Node.js, Express.js
+- **Frontend:** React.js
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+## Featured projects
+
+- [amazon-entity-resolution](https://github.com/Shijin-S/amazon-entity-resolution): machine learning project built for the Amazon ML Challenge
+- [code_kalari](https://github.com/Shijin-S/code_kalari): warehouse automation robot (Python)
+- [networkloadbalancer](https://github.com/Shijin-S/networkloadbalancer): network load balancer (TypeScript)
+- [netflix-clone](https://github.com/Shijin-S/netflix-clone): Netflix clone built with the MERN stack (code coming soon)
+
+## Get in touch
+
+- Email: shijinsajeev04@gmail.com
+- LinkedIn: [linkedin.com/in/shijin123](https://www.linkedin.com/in/shijin123/)
