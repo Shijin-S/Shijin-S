@@ -4,7 +4,7 @@ AI/ML enthusiast and full-stack developer, open to freelance work and open-sourc
 
 ## 👤 About Me
 
-I'm currently a B.Tech student at IIIT Kottayam who loves building real-world projects, including AI/ML projects. I enjoy learning new things and solving problems, and I'm always looking for the next thing to build.
+I'm a B.Tech CSE student at IIIT Kottayam passionate about AI/ML, software development, and building real-world projects. I enjoy solving problems, learning new technologies, and turning ideas into practical solutions. Always curious, always building.
 
 ## 🛠️ Tech Stack
 
