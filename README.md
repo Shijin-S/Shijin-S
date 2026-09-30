@@ -4,9 +4,7 @@ AI/ML enthusiast and full-stack developer, open to freelance work and open-sourc
 
 ## 👤 About Me
 
-I'm a developer who enjoys building both intelligent systems and complete web applications. On the AI/ML side, I work with Python, pandas and Scikit-Learn, and I take part in machine learning challenges such as the Amazon ML Challenge and on Kaggle. On the full-stack side, I build with JavaScript, Node.js, Express.js, React.js, MongoDB and PostgreSQL.
-
-I'm currently looking for freelance projects and open-source projects to contribute to. If you have an idea or a problem to solve, feel free to reach out.
+I'm currently a B.Tech student at IIIT Kottayam who loves building real-world projects, including AI/ML projects. I enjoy learning new things and solving problems, and I'm always looking for the next thing to build.
 
 ## 🛠️ Tech Stack
 
@@ -56,3 +54,4 @@ I'm currently looking for freelance projects and open-source projects to contrib
 
 - Email: shijinsajeev04@gmail.com
 - LinkedIn: [linkedin.com/in/shijin123](https://www.linkedin.com/in/shijin123/)
+- LeetCode: [leetcode.com/u/shijin_s](https://leetcode.com/u/shijin_s/)
